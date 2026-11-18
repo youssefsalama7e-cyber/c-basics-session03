@@ -1,0 +1,15 @@
+C:\youssef222\ConsoleApp6\bin\Debug\net10.0\ConsoleApp6.exe
+C:\youssef222\ConsoleApp6\bin\Debug\net10.0\ConsoleApp6.deps.json
+C:\youssef222\ConsoleApp6\bin\Debug\net10.0\ConsoleApp6.runtimeconfig.json
+C:\youssef222\ConsoleApp6\bin\Debug\net10.0\ConsoleApp6.dll
+C:\youssef222\ConsoleApp6\bin\Debug\net10.0\ConsoleApp6.pdb
+C:\youssef222\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\youssef222\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\youssef222\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.AssemblyInfo.cs
+C:\youssef222\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\youssef222\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.dll
+C:\youssef222\ConsoleApp6\obj\Debug\net10.0\refint\ConsoleApp6.dll
+C:\youssef222\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.pdb
+C:\youssef222\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.genruntimeconfig.cache
+C:\youssef222\ConsoleApp6\obj\Debug\net10.0\ref\ConsoleApp6.dll
+C:\youssef222\ConsoleApp6\obj\Debug\net10.0\ConsoleA.F7A32CA5.Up2Date
